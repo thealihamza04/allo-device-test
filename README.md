@@ -13,6 +13,18 @@ A demo page set in Allo (an animated greeting wall, weight and roundness sliders
 
 Each device loads the demo in an iframe at its real viewport size, scaled down to fit, so the demo's responsive layout is genuinely tested. The page always fits one screen.
 
+## Screenshots
+
+![Desktop: MacBook Pro at 1440 × 896](docs/screenshots/desktop.webp)
+
+| Tablet | Mobile |
+|---|---|
+| ![Tablet: iPad Pro at 834 × 1196](docs/screenshots/tablet.webp) | ![Mobile: iPhone 14 Pro at 393 × 836](docs/screenshots/mobile.webp) |
+
+| Foldable, unfolded | Foldable, folded |
+|---|---|
+| ![Foldable unfolded at 960 × 676](docs/screenshots/foldable-unfolded.webp) | ![Foldable folded at 440 × 637](docs/screenshots/foldable-folded.webp) |
+
 ## Switching devices
 
 - **Keys:** ← → (and Home / End)
